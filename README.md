@@ -1,12 +1,8 @@
-# CS231n - Spring 2017
+# Introduction
+The CS231n Spring 2017 course from Stanford University http://cs231n.github.io/.
 
+# Completion
+I only compeleted the notebook related to TensorFlow.
 
-
-
-
-
-
-
-
-# 作为一个计算机视觉的初学者，我从中获益匪浅，衷心感谢制作这个课程的所有人。
-# 后期的作业，我只完成了TensorFlow的部分。
+# Ackonwlegment
+As a beginner in computer vision, I benefited from this course and I sincerely thank all the service staff for it.
